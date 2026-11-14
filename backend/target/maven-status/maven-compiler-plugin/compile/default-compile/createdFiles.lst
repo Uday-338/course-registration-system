@@ -1,3 +1,4 @@
+com\example\courseregistration\CorsConfig$1.class
 com\example\courseregistration\CourseRegistrationApplication.class
 com\example\courseregistration\RegistrationController.class
 com\example\courseregistration\RegistrationRequest.class
@@ -6,4 +7,5 @@ com\example\courseregistration\ApiExceptionHandler.class
 com\example\courseregistration\StudentRegistration.class
 com\example\courseregistration\Course.class
 com\example\courseregistration\CourseRepository.class
+com\example\courseregistration\CorsConfig.class
 com\example\courseregistration\CourseController.class
