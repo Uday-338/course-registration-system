@@ -1,0 +1,9 @@
+com\example\courseregistration\CourseRegistrationApplication.class
+com\example\courseregistration\RegistrationController.class
+com\example\courseregistration\RegistrationRequest.class
+com\example\courseregistration\RegistrationRepository.class
+com\example\courseregistration\ApiExceptionHandler.class
+com\example\courseregistration\StudentRegistration.class
+com\example\courseregistration\Course.class
+com\example\courseregistration\CourseRepository.class
+com\example\courseregistration\CourseController.class
